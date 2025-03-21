@@ -32,8 +32,7 @@ secure_gate_proxy/
 
 ## Usage:
 ### Start the Proxy Server:
-```sh
-python http_proxy.py
+python3 http_proxy.py
 ```
 ### Use Proxy with `curl`:
 #### Direct Request (Without Proxy):
