@@ -22,7 +22,7 @@ Secure Gate Proxy is a lightweight MITM (Man-in-the-Middle) HTTP proxy built in 
 
 ## Folder Structure:
 ```
-secure_gate_proxy/
+secure_proxy/
 ├── authentication.py       # Handles user authentication via SQLite database
 ├── categorization.py       # Manages URL filtering and categorization
 ├── database_setup.py       # Initializes the user database
