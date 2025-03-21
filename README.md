@@ -30,15 +30,15 @@ secure_gate_proxy/
 ├── users.db                # SQLite database for authentication
 └── README.md               # Project documentation (this file)
 
-Usage:
-Start the Proxy Server:
+##Usage:
+**Start the Proxy Server:**
     python3 http_proxy.py
 
-Use Proxy with `curl`:
+**Use Proxy with `curl`:**
 Direct Request (Without Proxy):
     curl -vvv http://www.example.com -o /dev/null
 
-Request via Proxy:
+**Request via Proxy:**
     curl -vvv -x <proxy-ip>:8080 http://www.example.com -o /dev/null
 
 **Expected Output:**
