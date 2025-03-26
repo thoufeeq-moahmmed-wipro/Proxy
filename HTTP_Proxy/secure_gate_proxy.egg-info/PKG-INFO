@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: secure_gate_proxy
+Version: 0.1
+Summary: A Python-based MITM HTTP Proxy with URL filtering and authentication
+Author-email: Thoufeeq Mohammed <ThoufeeqMohammed.m@gmail.com>
+Requires-Python: >=3.6
