@@ -1,3 +1,0 @@
-authentication
-categorization
-http_proxy

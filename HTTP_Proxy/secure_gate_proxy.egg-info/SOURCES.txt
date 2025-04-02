@@ -1,9 +1,0 @@
-authentication.py
-categorization.py
-http_proxy.py
-pyproject.toml
-secure_gate_proxy.egg-info/PKG-INFO
-secure_gate_proxy.egg-info/SOURCES.txt
-secure_gate_proxy.egg-info/dependency_links.txt
-secure_gate_proxy.egg-info/entry_points.txt
-secure_gate_proxy.egg-info/top_level.txt
