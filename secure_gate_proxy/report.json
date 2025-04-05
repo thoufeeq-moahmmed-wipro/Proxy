@@ -1,0 +1,323 @@
+[
+{
+  "url": "http://www.google.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "--compressed -L -o --insecure -n3 -A -k -H -R /dev/null --location"
+},{
+  "url": "http://www.youtube.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "-A --compressed /dev/null --location -H -o -n3 -L -k --insecure -R"
+},{
+  "url": "http://www.facebook.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-L -H -k -o /dev/null -n3 --compressed --insecure -A -R --location"
+},{
+  "url": "http://www.wikipedia.org",
+  "user": "administrator:ironport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "/dev/null --insecure -A -L -H --location -o -k -R --compressed -n3"
+},{
+  "url": "http://www.twitter.com",
+  "user": "administrator:Lronport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "--insecure --compressed -R -k /dev/null -L -o -A -H --location -n3"
+},{
+  "url": "http://www.instagram.com",
+  "user": "administrator:tronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-A -R -o --location -L -n3 --compressed /dev/null -k -H --insecure"
+},{
+  "url": "http://www.linkedin.com",
+  "user": "administrator:tronport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "--insecure -n3 --location -A -k --compressed /dev/null -L -o -H -R"
+},{
+  "url": "http://www.reddit.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "--insecure -H -k -R --location --compressed /dev/null -L -A -n3 -o"
+},{
+  "url": "http://www.amazon.com",
+  "user": "administrator:tronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "-o -R -A -H -L --compressed --insecure --location -k /dev/null -n3"
+},{
+  "url": "http://www.netflix.com",
+  "user": "administrator:tronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "--insecure --location -n3 /dev/null -A -L -o --compressed -k -H -R"
+},{
+  "url": "http://www.apple.com",
+  "user": "administrator:tronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-L -A -o -k /dev/null -R --compressed --insecure -H --location -n3"
+},{
+  "url": "http://www.microsoft.com",
+  "user": "administrator:ironport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "-H -n3 -L --compressed -o -A --insecure --location -k -R /dev/null"
+},{
+  "url": "http://www.stackoverflow.com",
+  "user": "administrator:Lronport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "-R -L -n3 /dev/null --location -H --compressed --insecure -o -k -A"
+},{
+  "url": "http://www.bbc.com",
+  "user": "administrator:tronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-k -A -R -n3 --compressed /dev/null -o --insecure --location -L -H"
+},{
+  "url": "http://www.nytimes.com",
+  "user": "administrator:tronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-A --location -H -o --compressed -k /dev/null --insecure -R -n3 -L"
+},{
+  "url": "http://malicious-site1.com",
+  "user": "administrator:ironport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "--location -R -A -n3 -o -k --compressed --insecure -H -L /dev/null"
+},{
+  "url": "http://phishing-site2.com",
+  "user": "administrator:ironport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-H -A -R --insecure -o /dev/null -n3 --compressed -k -L --location"
+},{
+  "url": "http://virus-download3.com",
+  "user": "administrator:ironport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "-R --location -L -k --compressed -n3 -A -H -o --insecure /dev/null"
+},{
+  "url": "http://hacker-portal4.com",
+  "user": "administrator:tronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "/dev/null -o -n3 -k --location -R --insecure -A -L --compressed -H"
+},{
+  "url": "http://dangerous-content5.com",
+  "user": "administrator:ironport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-k --compressed -H -R -n3 -L -A -o --insecure /dev/null --location"
+},{
+  "url": "http://malware-zone6.com",
+  "user": "administrator:ironport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-A --insecure -n3 -R -k /dev/null -o --compressed -L -H --location"
+},{
+  "url": "http://ransomware7.com",
+  "user": "administrator:tronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-o -R -L --compressed --location -A -n3 -H --insecure -k /dev/null"
+},{
+  "url": "http://spyware8.com",
+  "user": "administrator:tronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "--insecure -A -H -R -k -n3 --compressed -L /dev/null --location -o"
+},{
+  "url": "http://darkweb-access9.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "--compressed /dev/null -H -n3 -o -k -A -R -L --insecure --location"
+},{
+  "url": "http://fake-login10.com",
+  "user": "administrator:Lronport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "--insecure --compressed --location -R -A -L -k -n3 /dev/null -o -H"
+},{
+  "url": "http://banned-content11.com",
+  "user": "administrator:ironport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "--location -R /dev/null -A -n3 -o -L --compressed -H --insecure -k"
+},{
+  "url": "http://suspicious-url12.com",
+  "user": "administrator:ironport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "-n3 -k /dev/null -o --compressed -H -L -R --insecure -A --location"
+},{
+  "url": "http://illegal-content13.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "--location -k -H /dev/null -A -n3 -R --compressed --insecure -L -o"
+},{
+  "url": "http://botnet-control14.com",
+  "user": "administrator:ironport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-A -k -L /dev/null --compressed -H --location -R --insecure -o -n3"
+},{
+  "url": "http://trojan-upload15.com",
+  "user": "administrator:tronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "--insecure -R -H -n3 -L -k -A --location -o /dev/null --compressed"
+},{
+  "url": "http://agnes.com",
+  "user": "administrator:tronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "-A -H -k --insecure -n3 -L -o --location --compressed /dev/null -R"
+},{
+  "url": "http://example.com",
+  "user": "administrator:tronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "-H -R -A -n3 --insecure -k -o --location --compressed -L /dev/null"
+},{
+  "url": "http://www.google.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "--compressed -k --insecure -n3 -L -R --location -A -o -H /dev/null"
+},{
+  "url": "http://www.youtube.com",
+  "user": "administrator:tronport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "--insecure -R -A --compressed -L -H --location /dev/null -n3 -k -o"
+},{
+  "url": "http://www.facebook.com",
+  "user": "administrator:tronport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "-L /dev/null --compressed -H -R -A --insecure -o -n3 -k --location"
+},{
+  "url": "http://www.wikipedia.org",
+  "user": "administrator:ironport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "-H --compressed -n3 -L --location -k /dev/null -o -A --insecure -R"
+},{
+  "url": "http://www.twitter.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "-k /dev/null -H -L -A --compressed -n3 -o -R --insecure --location"
+},{
+  "url": "http://www.instagram.com",
+  "user": "administrator:tronport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "-L -A --insecure -k -H -o --compressed -n3 -R /dev/null --location"
+},{
+  "url": "http://www.linkedin.com",
+  "user": "administrator:tronport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "-R -A -L -n3 -o /dev/null --location --compressed -k -H --insecure"
+},{
+  "url": "http://www.reddit.com",
+  "user": "administrator:tronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "--insecure -n3 -o -H --location -A --compressed -R -L /dev/null -k"
+},{
+  "url": "http://www.amazon.com",
+  "user": "administrator:tronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-k --insecure --location --compressed -H -R /dev/null -L -o -A -n3"
+},{
+  "url": "http://www.netflix.com",
+  "user": "administrator:ironport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-A -L /dev/null -R -n3 -k --insecure -o --location --compressed -H"
+},{
+  "url": "http://www.apple.com",
+  "user": "administrator:Lronport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "-o -n3 -k -R --location --insecure -L -H /dev/null -A --compressed"
+},{
+  "url": "http://www.microsoft.com",
+  "user": "administrator:Lronport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "--insecure --compressed -R -o -H -L -A -n3 /dev/null -k --location"
+},{
+  "url": "http://www.stackoverflow.com",
+  "user": "administrator:ironport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-A /dev/null -k -o -n3 --location --compressed -R -H -L --insecure"
+},{
+  "url": "http://www.bbc.com",
+  "user": "administrator:tronport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "-R -H --location -k --compressed --insecure -A -n3 /dev/null -L -o"
+},{
+  "url": "http://www.nytimes.com",
+  "user": "administrator:tronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-o --compressed --location /dev/null -H -A -R -k -n3 -L --insecure"
+},{
+  "url": "http://malicious-site1.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "-n3 -L -H /dev/null --insecure -R -k --location -o -A --compressed"
+},{
+  "url": "http://phishing-site2.com",
+  "user": "administrator:ironport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "-o /dev/null --compressed -L -R --insecure -H -n3 -A -k --location"
+},{
+  "url": "http://virus-download3.com",
+  "user": "administrator:ironport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "-R -H /dev/null -L -o -k --location --compressed -n3 -A --insecure"
+},{
+  "url": "http://hacker-portal4.com",
+  "user": "administrator:tronport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "--insecure -L --compressed -n3 --location -o -R -H -A -k /dev/null"
+},{
+  "url": "http://dangerous-content5.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "--location -n3 -A -H -o -L --compressed --insecure -R /dev/null -k"
+},{
+  "url": "http://malware-zone6.com",
+  "user": "administrator:tronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "--compressed -A -n3 /dev/null --location -R -o -k -L -H --insecure"
+},{
+  "url": "http://ransomware7.com",
+  "user": "administrator:tronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "-A -o --location -R -k -H --insecure /dev/null -n3 --compressed -L"
+},{
+  "url": "http://spyware8.com",
+  "user": "administrator:tronport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "-n3 -H -R -k --insecure -L -A -o /dev/null --compressed --location"
+},{
+  "url": "http://darkweb-access9.com",
+  "user": "administrator:tronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "-n3 -L --insecure --compressed /dev/null -A -k --location -H -o -R"
+},{
+  "url": "http://fake-login10.com",
+  "user": "administrator:ironport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "-L -k --compressed -A --location /dev/null -n3 -R --insecure -o -H"
+},{
+  "url": "http://banned-content11.com",
+  "user": "administrator:Lronport",
+  "proxy": "18.18.192.39:3128",
+  "flags": "-k -R --compressed -L --insecure -n3 -H -o -A --location /dev/null"
+},{
+  "url": "http://suspicious-url12.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "--insecure -k -L -o -H -n3 --compressed /dev/null --location -R -A"
+},{
+  "url": "http://illegal-content13.com",
+  "user": "administrator:ironport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "-k -n3 --compressed -H --location -R --insecure -L /dev/null -o -A"
+},{
+  "url": "http://botnet-control14.com",
+  "user": "administrator:ironport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "--compressed -n3 -k -o -R /dev/null -L -H --insecure -A --location"
+},{
+  "url": "http://trojan-upload15.com",
+  "user": "administrator:Lronport",
+  "proxy": "10.10.192.39:3128",
+  "flags": "-n3 /dev/null -k -H --compressed -R --location -o -L --insecure -A"
+},{
+  "url": "http://agnes.com",
+  "user": "administrator:tronport",
+  "proxy": "10.22.185.15:8080",
+  "flags": "-k --location -o --compressed -L --insecure /dev/null -R -n3 -A -H"
+},{
+  "url": "http://example.com",
+  "user": "administrator:tronport",
+  "proxy": "10.18.192.39:3128",
+  "flags": "-H /dev/null -n3 -L --insecure -A -R -o --compressed --location -k"
+}
+]
